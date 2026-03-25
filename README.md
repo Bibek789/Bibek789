@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="100%" src="drbanner.png">
-<h1 align="center">Hi 👋, I'm Bibek Panda</h1>
+<!-- <h1 align="center">Hi 👋, I'm Bibek Panda</h1> -->
 
 <h3 align="center">I'm a self-taught Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
