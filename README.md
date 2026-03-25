@@ -14,6 +14,9 @@ Actively building projects to improve practical skills.
 
 ## Fun Facts:
 • I like coffee
+
 • Harry Potter is my favorite series
+
 • Naruto is my favorite anime 
+
 • Hobbies: anime, gaming, building things
