@@ -21,8 +21,6 @@ Actively building projects to improve practical skills.
 
 • Hobbies: anime, gaming, building things
 
-((https://activity-graph.herokuapp.com/graph?username=Bibek789&&theme=xcode)](https://github.com/Bibek789))
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibek789&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibek789" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&locale=en&theme=tokyonight" alt="Bibek789" /></p>
