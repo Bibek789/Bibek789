@@ -1,16 +1,19 @@
-## Hi there 👋
+##👋 Hi, I'm Bibek 
 
-<!--
-**Bibek789/Bibek789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year BTech Computer Science Student, Software Developer in India.
 
-Here are some ideas to get you started:
+I design and bulid scalable and creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it.
+
+My main tech stack is react, node and python. My favorite tools are VS code, spotify. 
+
+I've got bunch of pinned projects, but my favorite is the 
+
+Actively building projects to improve practical skills.
+
+## Fun Facts:
+• I like coffee
+• Harry Potter is my favorite series
+• Naruto is my favorite anime 
+• Hobbies: anime, gaming, building things
