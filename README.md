@@ -36,13 +36,11 @@ Actively building projects to improve practical skills.
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibek789&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibek789" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&locale=en&theme=tokyonight" alt="Bibek789" /></p>
-<br /><br />
-
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibek789&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibek789" /></p> |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&locale=en&theme=tokyonight" alt="Bibek789" /></p>
+<br /><br /> |
+| ------------- | ------------- |
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bibek789&&theme=tokyonight" alt="Bibek789" /></p>
 <br /><br />
 </div>
-
-| <a href="https://github.com/Bibek789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bibek's github stats" /></a> | <a href="https://github.com/Bibek789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek789&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
