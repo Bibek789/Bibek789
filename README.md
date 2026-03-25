@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibek Panda</h1>
 
-<h3 align="center">Final Year BTech Computer Science Student, Software Developer in India.</h3>
+<h3 align="center">I'm a self-taught Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bibek789&label=Profile%20views&color=0e75b6&style=flat" alt="bibekpanda" /> </p>
@@ -43,3 +43,6 @@ Actively building projects to improve practical skills.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bibek789&&theme=tokyonight" alt="Bibek789" /></p>
 <br /><br />
 </div>
+
+| <a href="https://github.com/Bibek789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bibek's github stats" /></a> | <a href="https://github.com/Bibek789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek789&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
