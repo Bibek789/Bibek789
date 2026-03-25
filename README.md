@@ -3,7 +3,7 @@
 <h3 align="center">Final Year BTech Computer Science Student, Software Developer in India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://x.com/RY0SHIN0" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Bibek Panda"  </p>
+<p align="left"> <a href="https://x.com/RY0SHIN0" target="blank"><img src="https://img.shields.io/twitter/follow/RY0SHIN0?logo=twitter&style=for-the-badge" alt="Bibek Panda"  </p>
 
 I design and bulid scalable and creative projects.
 
