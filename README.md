@@ -35,8 +35,16 @@ Actively building projects to improve practical skills.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibek789&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibek789" /></p>
+<br /><br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&locale=en&theme=tokyonight" alt="Bibek789" /></p>
+<br /><br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bibek789&&theme=tokyonight" alt="Bibek789" /></p>
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek789&theme=dracula" alt="GitHub Activity Graph" />
+
+</div>
