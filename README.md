@@ -37,13 +37,9 @@ Actively building projects to improve practical skills.
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibek789&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibek789" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibek789&show_icons=true&locale=en&theme=tokyonight" alt="Bibek789" /></p>
 <br /><br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bibek789&&theme=tokyonight" alt="Bibek789" /></p>
 <br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek789&theme=dracula" alt="GitHub Activity Graph" />
-
 </div>
